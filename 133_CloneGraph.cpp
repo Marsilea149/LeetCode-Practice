@@ -1,3 +1,8 @@
+/**Difficulty: 9/10
+ * Key notion: hashtable
+ * creat a hashtable with the original nodes as keys, build the new nodes
+ */
+
 /*
 // Definition for a Node.
 class Node {
